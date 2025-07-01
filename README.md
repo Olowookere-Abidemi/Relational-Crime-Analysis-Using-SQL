@@ -255,6 +255,6 @@ The murder was committed by Jeremy under the direction of Miranda, a wealthy ind
 ## Attachments
 
 * **Database File:** [`Police_Database.backup`](./Police_Database.backup)
-* **SQL Script File:** [`murder_investigation.sql`](./murder_investigation.sql)
+* **SQL Script File:** [`murder_investigation.sql`](https://github.com/Olowookere-Abidemi/Relational-Crime-Analysis-Using-SQL/blob/main/INVESTIATIVE%20ANALYSIS.sql)
 
 ---
